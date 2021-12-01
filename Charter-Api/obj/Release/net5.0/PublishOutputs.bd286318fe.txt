@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Neon\Sesi13\Charter-Api\Charter-Api\bin\Release\net5.0\publish\Charter-Api.exe
+C:\Users\User\Documents\Neon\Sesi13\Charter-Api\Charter-Api\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\User\Documents\Neon\Sesi13\Charter-Api\Charter-Api\bin\Release\net5.0\publish\appsettings.json
+C:\Users\User\Documents\Neon\Sesi13\Charter-Api\Charter-Api\bin\Release\net5.0\publish\Charter-Api.dll
+C:\Users\User\Documents\Neon\Sesi13\Charter-Api\Charter-Api\bin\Release\net5.0\publish\Charter-Api.deps.json
+C:\Users\User\Documents\Neon\Sesi13\Charter-Api\Charter-Api\bin\Release\net5.0\publish\Charter-Api.runtimeconfig.json
+C:\Users\User\Documents\Neon\Sesi13\Charter-Api\Charter-Api\bin\Release\net5.0\publish\Charter-Api.pdb
+C:\Users\User\Documents\Neon\Sesi13\Charter-Api\Charter-Api\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\User\Documents\Neon\Sesi13\Charter-Api\Charter-Api\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\Neon\Sesi13\Charter-Api\Charter-Api\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\Neon\Sesi13\Charter-Api\Charter-Api\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
